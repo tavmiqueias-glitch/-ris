@@ -1,7 +1,7 @@
-
-Receita de bolo
-
+Rceita de bolo de baunilha
+----------------------------
 Ingredientes:
 -farinha
 -ovos
 -açucar
+-essência de baunilha
