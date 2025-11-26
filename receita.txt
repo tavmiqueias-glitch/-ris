@@ -1,7 +1,8 @@
 
-Receita de bolo
-
-Ingredientes:
+receita de bolo de chocolate
+----------------------------
+ingredientes:
 -farinha
 -ovos
--açucar
+açucar
+chocolate em pó
