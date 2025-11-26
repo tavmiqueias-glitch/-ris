@@ -1,7 +1,8 @@
-Rceita de bolo de baunilha
+Receita de bolo mesclado
 ----------------------------
 Ingredientes:
 -farinha
 -ovos
 -açucar
 -essência de baunilha
+-chocolate em pó
